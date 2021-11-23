@@ -1,4 +1,4 @@
-# Beginners Tech Interview
+# 신동헌 
 
 > `keyword` 기반으로 CS 면접 및 인성면접을 준비하는 핸드북입니다.
 
