@@ -1,14 +1,13 @@
 # 자료구조 Data Structure
 
-<br>
+#### [선형 자료구조](./linear-structure.md)
 
-#### 선형 자료구조
-  - 배열
-  - 연결리스트
-    - 단순연결리스트
-    - 이중연결리스트
-    - 원형연결리스트
-  - 스택, 큐, 데크
+  - [배열](./linear-structure.md#배열-array-list)
+  - [연결리스트](./linear-structure.md#연결리스트-linked-list)
+  - [스텍](./linear-structure.md#스텍-stack)
+  - [큐](./linear-structure.md#큐-queue)
+    - [선형큐와 원형큐](./linear-structure.md#선형큐와-원형큐)
+  - [( 데크 )](./linear-structure.md#데크-deque)
 
 <br>
 
