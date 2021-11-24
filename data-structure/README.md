@@ -11,17 +11,16 @@
 
 <br>
 
-#### 비선형 자료구조
-  - 그래프
-  - 트리
-    - 이진탐색트리
-      - AVL트리
-      - 레드블랙트리
-    - B, B+ 트리
-    - 이진힙
-      - 우선순위큐
-    - (Trie)
-    - (허프만 트리)
+#### [비선형 자료구조](./non-linear-structure.md)
+  - [그래프](./non-linear-structure.md#그래프-graph)
+    - [MST](./non-linear-structure.md#최소-신장-트리-mst)
+  - [트리](./non-linear-structure.md#트리-tree)
+    - [이진트리](./non-linear-structure.md#이진트리-binary-tree)
+    - [이진탐색트리](./non-linear-structure.md#이진탐색트리-binary-search-tree)
+    - 이진힙 (우선순위큐)
+    - [( B 트리 )](./non-linear-structure.md#-b-트리-)
+    - ( 트라이 )
+    - ( 허프만 트리 )
   - 해시테이블
   - Map, Set
     - union-find
