@@ -4,7 +4,7 @@
 
 [돌아가기](./README.md)
 
----
+<br>
 
 ## 그래프 Graph
 
@@ -50,8 +50,6 @@
 </details>
 
 <br>
-
----
 
 ## 트리 Tree
 
