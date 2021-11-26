@@ -17,13 +17,14 @@
   - [트리](./non-linear-structure.md#트리-tree)
     - [이진트리](./non-linear-structure.md#이진트리-binary-tree)
     - [이진탐색트리](./non-linear-structure.md#이진탐색트리-binary-search-tree)
-    - 이진힙 (우선순위큐)
+    - [이진힙 (우선순위큐)](./non-linear-structure.md#이진힙-binary-heap-우선순위-큐)
     - [( B 트리 )](./non-linear-structure.md#-b-트리-)
-    - ( 트라이 )
+    - [( 트라이 )](./non-linear-structure.md#-트라이-trie-)
     - ( 허프만 트리 )
-  - 해시테이블
-  - Map, Set
-    - union-find
+  - [해시테이블](./non-linear-structure.md#해시테이블)
+    - [open addressing](./non-linear-structure.md#open-addressing)
+    - [chaining](./non-linear-structure.md#chaining)
+  - [Map, Set](./non-linear-structure.md#map-set)
 
 <br>
 
