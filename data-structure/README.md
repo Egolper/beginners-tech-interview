@@ -2,18 +2,12 @@
 
 #### [선형 자료구조](./linear-structure.md)
 
-  - [배열](./linear-structure.md#배열-array-list)
-  - [연결리스트](./linear-structure.md#연결리스트-linked-list)
-  - [스텍](./linear-structure.md#스텍-stack)
-  - [큐](./linear-structure.md#큐-queue)
-    - [선형큐와 원형큐](./linear-structure.md#선형큐와-원형큐)
-  - [( 데크 )](./linear-structure.md#데크-deque)
-
-<br>
+  - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
+  - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
+  - [해시테이블](./linear-structure.md#해시테이블,-map,-set)
 
 #### [비선형 자료구조](./non-linear-structure.md)
   - [그래프](./non-linear-structure.md#그래프-graph)
-    - [MST](./non-linear-structure.md#최소-신장-트리-mst)
   - [트리](./non-linear-structure.md#트리-tree)
     - [이진트리](./non-linear-structure.md#이진트리-binary-tree)
     - [이진탐색트리](./non-linear-structure.md#이진탐색트리-binary-search-tree)
@@ -21,10 +15,6 @@
     - [( B 트리 )](./non-linear-structure.md#-b-트리-)
     - [( 트라이 )](./non-linear-structure.md#-트라이-trie-)
     - ( 허프만 트리 )
-  - [해시테이블](./non-linear-structure.md#해시테이블)
-    - [open addressing](./non-linear-structure.md#open-addressing)
-    - [chaining](./non-linear-structure.md#chaining)
-  - [Map, Set](./non-linear-structure.md#map-set)
 
 <br>
 
