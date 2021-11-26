@@ -2,6 +2,10 @@
 
 > 앞뒤 자료들 간이 1:1의 선형관계를 맺는 자료구조이다.
 
+#### [비선형 자료구조](./non-linear-structure.md)
+  - [그래프](./non-linear-structure.md#그래프-graph)
+  - [트리](./non-linear-structure.md#트리-tree)
+
 [돌아가기](./README.md)
 
 <br>
@@ -168,7 +172,8 @@
 
 <details>
 <summary>&nbsp; open addressing에 대해서 설명해주세요.</summary>
-<p>
+
+---
 
 - 충돌이 발생하면 다른 버킷에 데이터를 저장시킨다.
 - 다른 버킷을 찾는 방법은 여러가지가 있다.
@@ -182,12 +187,14 @@
 
 - 어느정도 데이터가 차면 테이블 크기를 적절하게 늘려주고 처음부터 다시 해싱하는 것이 좋다.
 
-</p>
+---
+
 </details>
 
 <details>
 <summary>&nbsp; chaining 방식에 대해서 설명해주세요.</summary>
-<p>
+
+---
 
 - 한 버킷에 들어갈 데이터 수를 제한하지 않고 충돌되면 체인에 데이터를 추가한다.
   - 체인을 연결리스트, 레드블랙트리로 구현
@@ -195,7 +202,8 @@
 - 일반적으로 open이 chaining보다 느리다.
   - 버킷 밀도가 높아지면서 open이 충돌빈도가 높이지기 때문이다.
 
-</p>
+---
+
 </details>
 
 <details>
