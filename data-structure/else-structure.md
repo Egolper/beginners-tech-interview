@@ -1,15 +1,19 @@
 ## [Data Structure](./README.md)
-#### [선형 자료구조](./linear-structure.md)
+#### [선형 자료구조](./linear-structure.md#선형-자료구조)
   - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
 
-#### [비선형 자료구조](./non-linear-structure.md)
+#### [비선형 자료구조](./non-linear-structure.md#비선형-자료구조)
   - [그래프](./non-linear-structure.md#그래프-graph)
   - [트리](./non-linear-structure.md#트리-tree)
 
 [돌아가기](./README.md)
 
 <br>
+
+- [그외 자료구조](#그외-자료구조)
+  - [해시테이블, Map, Set](#해시테이블-map-set)
+  - [진법](#진법)
 
 # 그외 자료구조
 
@@ -27,7 +31,7 @@
 - 해시 함수를 통해 키(key)와 데이터값(value)를 매핑하여 저장하는 자료구조이다.
   - `해시 함수`
     - 임의의 길이의 (key)를 고정된 길이의 (index, 해시값)로 변환되어 (value)의 주소를 매핑하는 함수이다.
-    - SHA1, SHA256 ()
+    - 나머지 연산, SHA-1, SHA-256
   - `해시 충돌`
     - 해시 함수의 성능에 따라 다른 key가 같은 해시값으로 변환되는 경우가 발생할 수 있다.
     - 크게 open addressing, chaning 2가지 방법이 있다.

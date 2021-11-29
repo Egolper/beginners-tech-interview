@@ -1,11 +1,11 @@
 ## [Data Structure](./README.md)
-#### [선형 자료구조](./linear-structure.md)
+#### [선형 자료구조](./linear-structure.md#선형-자료구조)
   - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
 
-#### [그외 자료구조](./else-structure.md)
-  - [해시테이블](./else-structure.md#해시테이블,-Map,-Set)
-  - [진법](././else-structure.md#진법)
+#### [그외 자료구조](./else-structure.md#그외-자료구조)
+  - [해시테이블](./else-structure.md#해시테이블-map-set)
+  - [진법](./else-structure.md#진법)
 
 [돌아가기](./README.md)
 
@@ -28,7 +28,7 @@
 
 - BFS(최단 경로), DFS(모든 노드 방문) `O(V+E)`
 - 인접 행렬, 인접 리스트
-- 방향, 간선에 가치
+- 방향 유무, 간선에 가치 유무
 
 ---
 
@@ -83,6 +83,7 @@
 ---
 
 `관계` `계층적`
+
 - 배열은 선형적으로 데이터를 담는 자료구조이고, 트리는 계층적 데이터를 표현하는 자료구조이다.
 - 개체과의 관계를 노드와 엣지를 통해서 쉽게 표현할 수 있다.
 
@@ -96,6 +97,7 @@
 ---
 
 `2개 자식` `순회`
+
 - 각각의 노드가 최대 두 개의 자식 노드를 가지는 트리이다.
 
 <br>
@@ -128,7 +130,7 @@
   - **AVL 트리**
     - 회전을 통해서 트리의 밸런스를 보장한다.
     - LL, RR, RL, LR
-  - **Red-Black 트리**
+  - (심화) **Red-Black 트리**
     - Red 노드, Black 노드 개수를 기반으로 트리를 회전시켜 트리의 밸런스를 보장한다.
       - 루트노드는 검은색
       - 모든 leaf node밖의 노드들은 검은색
@@ -160,14 +162,15 @@
 
 ---
 
-- 이진힙은 모든 자식이 부모와 대소관계를 갖는데 min힙이면 자식이 더 크고 max힙이면 자식이 더 작다. 반면 BST같은 경우 좌측자식이 더 작고 우측자식이 더 커야한다.
+- 이진힙은 모든 자식이 부모와 대소관계를 갖는데 min힙이면 자식이 더 크고 max힙이면 자식이 더 작다. 
+- BST는 좌측자식이 더 작고 우측자식이 더 커야한다.
 
 ---
 
 </details>
 
 <details>
-<summary>&nbsp; B 트리에 대해서 설명해주세요.</summary>
+<summary>&nbsp; (심화) B 트리에 대해서 설명해주세요.</summary>
 
 ---
 
@@ -190,7 +193,7 @@
 </details>
 
 <details>
-<summary>&nbsp; B+ 트리에 대해서 설명해주세요.</summary>
+<summary>&nbsp; (심화) B+ 트리에 대해서 설명해주세요.</summary>
 
 ---
 
@@ -209,7 +212,7 @@
 </details>
 
 <details>
-<summary>&nbsp; 트라이에 대해서 설명해주세요.</summary>
+<summary>&nbsp; (심화) 트라이에 대해서 설명해주세요.</summary>
 
 ---
 
