@@ -3,18 +3,18 @@
 > 자료 앞뒤로 1:n, 또는 n:n 관계가 가능하여 계층적 구조를 표현하기 좋다.
 
 #### [선형 자료구조](./linear-structure.md)
-
   - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
-  - [해시테이블](./linear-structure.md#해시테이블,-map,-set)
+
+#### [그외 자료구조](./else-structure.md)
+  - [해시테이블](./else-structure.md#해시테이블,-Map,-Set)
+  - [진법](././else-structure.md#진법)
 
 [돌아가기](./README.md)
 
 <br>
 
 ## 그래프 Graph
-
-
 
 <details>
 <summary>&nbsp; 그래프에 대해서 설명해주세요.</summary>
@@ -58,7 +58,6 @@
 <br>
 
 ## 트리 Tree
-
 
 <details>
 <summary>&nbsp; 트리에 대해서 설명해주세요.</summary>

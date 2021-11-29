@@ -4,7 +4,6 @@
 
   - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
-  - [해시테이블](./linear-structure.md#해시테이블,-map,-set)
 
 #### [비선형 자료구조](./non-linear-structure.md)
   - [그래프](./non-linear-structure.md#그래프-graph)
@@ -15,6 +14,11 @@
     - [( B 트리 )](./non-linear-structure.md#-b-트리-)
     - [( 트라이 )](./non-linear-structure.md#-트라이-trie-)
     - ( 허프만 트리 )
+
+#### [그외 자료구조](./else-structure.md)
+
+  - [해시테이블](./else-structure.md#해시테이블,-map,-set)
+  - [진법](./else-structure.md#진법)
 
 <br>
 
