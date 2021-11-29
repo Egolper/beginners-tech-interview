@@ -1,6 +1,6 @@
 ## [Data Structure](./README.md)
 #### [선형 자료구조](./linear-structure.md#선형-자료구조)
-  - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
+  - [배열, 연결리스트](./linear-structure.md#배열-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
 
 #### [그외 자료구조](./else-structure.md#그외-자료구조)
