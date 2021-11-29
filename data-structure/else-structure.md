@@ -1,5 +1,3 @@
-# 그외 자료구조
-
 #### [선형 자료구조](./linear-structure.md)
   - [배열, 연결리스트](./linear-structure.md#배열,-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
@@ -9,6 +7,10 @@
   - [트리](./non-linear-structure.md#트리-tree)
 
 [돌아가기](./README.md)
+
+<br>
+
+# 그외 자료구조
 
 <br>
 

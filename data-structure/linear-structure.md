@@ -1,7 +1,3 @@
-# 선형 자료구조
-
-> 앞뒤 자료들 간이 1:1의 선형관계를 맺는 자료구조이다.
-
 #### [비선형 자료구조](./non-linear-structure.md)
   - [그래프](./non-linear-structure.md#그래프-graph)
   - [트리](./non-linear-structure.md#트리-tree)
@@ -12,6 +8,13 @@
 
 [돌아가기](./README.md)
 
+
+<br>
+
+# 선형 자료구조
+
+> 앞뒤 자료들 간이 1:1의 선형관계를 맺는 자료구조이다.
+ 
 <br>
 
 ## 배열, 연결리스트
@@ -21,10 +24,10 @@
 
 ---
 
-`인접메모리` `포인터`, `Random Access` `Sequential Access`
+`인접메모리` `Random Access`
 
 - 배열은 요소들을 연속된 물리주소 위치에 연이어 저장하고 연결리스트는 무작위 메모리 위치에 있고 포인터를 통해서 논리적으로 연결한다. 
-- 따라서 특정 요소를 O(1)로 접근할 수 있다.
+- 따라서 배열 특정 요소를 O(1)로 접근하고 .
 
 - 특정 요소를 삽입, 제거하려면 요소들의 메모리 위치를 재조정해야하기에 O(N)이 필요하다. 
 - 요소를 삽입, 삭제할 때 노드의 포인터만 조정해주면 되기에 O(1)이 소요된다. 
@@ -41,9 +44,9 @@
 
 ---
 
-- `단순 연결 리스트`  한방햔으로 
-- `원형 연결 리스트` 
-- `이중 연결리스트`
+- `단순 연결 리스트` 한방향으로 데이터가 연결 된다. 
+- `원형 연결 리스트` 맨 끝이 NULL이 아니라 첫 노드를 가리킨다.
+- `이중 연결리스트` 하나 노드에 head와 tail이 있어 앞뒤로 탐색을 할 수 있다.
 
 ---
 
@@ -102,8 +105,6 @@
 
 `꽉 차는 기준` `공간 재활용`
 
-![queue](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP2AjD%2FbtqDaU3tb21%2FPRkoy9hnjkTFIkS96wrY51%2Fimg.png)
-
 - 선형큐
   - `rear = n - 1`이면 큐가 꽉찬 것.
   - `front` 앞에 있는 공간이 낭비된다.
@@ -114,6 +115,8 @@
   - `rear = front - 1`이면 큐가 꽉 찬 것.
   - `rear`가 `front` 앞에 있는 공간을 활용할 수 있게 된다.
 - 둘다 resize 문제를 보유하고 있다.
+
+![queue](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP2AjD%2FbtqDaU3tb21%2FPRkoy9hnjkTFIkS96wrY51%2Fimg.png)
 
 ---
 
