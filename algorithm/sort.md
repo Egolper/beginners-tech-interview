@@ -9,7 +9,7 @@
 
 #### [탐색 알고리즘](./search.md)
 
-[홈으로](../README.md)
+[( 홈으로 )](../README.md)
 
 <br>
 

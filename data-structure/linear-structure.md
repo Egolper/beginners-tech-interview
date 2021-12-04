@@ -1,4 +1,7 @@
 ## [Data Structure](./README.md)
+
+#### 선형 자료구조
+
 #### [비선형 자료구조](./non-linear-structure.md#비선형-자료구조)
   - [그래프](./non-linear-structure.md#그래프-graph)
   - [트리](./non-linear-structure.md#트리-tree)
@@ -7,8 +10,7 @@
   - [해시테이블](./else-structure.md#해시테이블-map-set)
   - [진법](./else-structure.md#진법)
 
-[돌아가기](./README.md)
-
+[( 홈으로 )](../README.md)
 
 <br>
 

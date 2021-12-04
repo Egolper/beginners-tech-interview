@@ -30,4 +30,4 @@
   - ( 파라메트릭 서치 )
   - ( union find)
 
-[홈으로 돌아가기](../README.md)
+[( 홈으로 )](../README.md)

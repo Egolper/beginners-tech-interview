@@ -7,7 +7,9 @@
   - [그래프](./non-linear-structure.md#그래프-graph)
   - [트리](./non-linear-structure.md#트리-tree)
 
-[돌아가기](./README.md)
+#### 그외 자료구조
+
+[( 홈으로 )](../README.md)
 
 <br>
 
