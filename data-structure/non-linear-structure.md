@@ -54,7 +54,7 @@
 ---
 
 `모든 정점 연결` `간선 비용의 합이 최소`
-- Kruskal, Prim은 알고리즘에서.
+- Kruskal, Prim은 [알고리즘에서](../algorithm/graph.md#mst-알고리즘)
 
 ---
 
