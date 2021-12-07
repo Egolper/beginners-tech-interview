@@ -1,3 +1,8 @@
+<details>
+<summary>&nbsp; 목차</summary>
+
+---
+
 ## [Algorithm](./README.md)
 
 #### [정렬](./sort.md)
@@ -10,7 +15,17 @@
 
 [( 홈으로 )](../README.md)
 
+---
+
+</details>
+
+<br>
+
 # 탐색 알고리즘
+
+<br>
+
+## BFS, DFS
 
 <details>
 <summary>&nbsp; BFS에 대해서 설명해주세요.</summary>
@@ -26,6 +41,20 @@
 ---
 
 </details>
+
+<details>
+<summary>&nbsp; BFS 탐색시 가장 나중에 도착하는 정점은? (K사)</summary>
+
+---
+
+- 
+
+---
+
+</details>
+
+<br>
+
 
 <details>
 <summary>&nbsp; 백트레킹에 대해서 설명해주세요.</summary>

@@ -1,3 +1,8 @@
+<details>
+<summary>&nbsp; 목차</summary>
+
+---
+
 ## [Algorithm](./README.md)
 
 #### [정렬](./sort.md)
@@ -8,9 +13,16 @@
   
 [( 홈으로 )](../README.md)
 
+---
+
+</details>
+
 <br>
 
 # 그래프 알고리즘
+
+> 면접보다는 단답, 객관식에서 나올 법하다.   
+> 알고리즘 문제 풀이에 더 초점을 갖길 바란다.
 
 <br>
 
