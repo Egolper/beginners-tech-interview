@@ -4,15 +4,15 @@
 > 백준 골드, 프로그래머스 3~4 level까지 풀면 자신감이 생길 것이다.
 
 - [추천 문제집](https://github.com/tony9402/baekjoon)   
-- [백준에서 JS 사용하기](./baekjoon_nodejs.js)
+- [백준에서 JS 사용하는 팁](./baekjoon_nodejs.js)
 
 ---
 
-#### [정렬](./sort.md)
+### [정렬](./sort.md)
   - stable
   - in-place
 
-#### [그래프 알고리즘](./graph.md)
+### [그래프 알고리즘](./graph.md)
   - [MST 알고리즘](./graph.md#mst-알고리즘)
     - 크루스칼
     - 프림
@@ -23,7 +23,7 @@
     - 플로이드와샬
     - ( A* )
 
-#### [탐색 알고리즘](./search.md)
+### [탐색 알고리즘](./search.md)
   - 완전탐색
   - BFS, DFS
   - 이진탐색
