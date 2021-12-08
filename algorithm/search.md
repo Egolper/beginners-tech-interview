@@ -23,6 +23,8 @@
 
 # 탐색 알고리즘
 
+> 카카오는 BFS, DFS 문제를 굉장히 좋아하므로 꼭 다양한 문제를 풀어보기 바란다.
+
 <br>
 
 ## BFS, DFS
@@ -43,15 +45,19 @@
 </details>
 
 <details>
-<summary>&nbsp; BFS 탐색시 가장 나중에 도착하는 정점은? (K사)</summary>
+<summary>&nbsp; BFS, DFS 관련 손코딩 (K사)</summary>
 
 ---
 
-- 
+- 미로 탐색, 방문 여부 기록 등 다양한 조건을 요구할 수 있다.
+- 실제 기능 요구사항이 있다면 함수명 작성도 신경쓰자 ^^ `const dfs = () => {...}` 사절
 
 ---
 
 </details>
+
+<br>
+
 
 <br>
 
