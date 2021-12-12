@@ -1,8 +1,12 @@
 # Beginners Tech Interview
 
-> `keyword` 기반으로 CS 면접 및 인성면접을 준비하는 핸드북입니다.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Egolper/beginners-tech-interview&count_bg=%23888888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> **print("Hello Beginners!");**   
+>
+> 이 저장소는 `keyword` 기반으로 CS 면접 및 인성면접을 준비하는 핸드북입니다.   
+> 
+> 취준생 여러분 화이팅 😘
+> 
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Egolper/beginners-tech-interview&count_bg=%23888888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
