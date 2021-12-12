@@ -6,28 +6,30 @@
 - [추천 문제집](https://github.com/tony9402/baekjoon)   
 - [백준에서 JS 사용하는 팁](./baekjoon_nodejs.js)
 
----
+<br>
 
-### [정렬](./sort.md)
+## 목차
+
+#### [정렬](./sort.md)
   - stable
   - in-place
 
-### [그래프 알고리즘](./graph.md)
+#### [그래프 알고리즘](./graph.md)
   - [MST 알고리즘](./graph.md#mst-알고리즘)
     - 크루스칼
     - 프림
-    - ( 솔린 )
   - [최단경로](./graph.md#최단경로)
     - 다익스트라
     - 밸만포드
     - 플로이드와샬
-    - ( A* )
 
-### [탐색 알고리즘](./search.md)
+#### [탐색 알고리즘](./search.md)
   - 완전탐색
   - BFS, DFS
   - 이진탐색
   - ( 파라메트릭 서치 )
-  - ( union find)
+  - ( union find )
+
+<br>
 
 [( 홈으로 )](../README.md)
