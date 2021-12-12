@@ -1,3 +1,8 @@
+<details>
+<summary>&nbsp; 목차</summary>
+
+---
+
 ## [Data Structure](./README.md)
 
 #### 선형 자료구조
@@ -12,7 +17,13 @@
 
 [( 홈으로 )](../README.md)
 
+---
+
+</details>
+
 <br>
+
+
 
 # 선형 자료구조
 
