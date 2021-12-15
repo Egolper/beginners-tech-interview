@@ -1,13 +1,28 @@
+<details>
+<summary>&nbsp; 목차</summary>
+
+---
+
 ## [Data Structure](./README.md)
 #### [선형 자료구조](./linear-structure.md#선형-자료구조)
   - [배열, 연결리스트](./linear-structure.md#배열-연결리스트)
   - [스텍, 큐](./linear-structure.md#스텍,-큐,-데크)
 
+#### 비선형 자료구조
+
 #### [그외 자료구조](./else-structure.md#그외-자료구조)
   - [해시테이블](./else-structure.md#해시테이블-map-set)
   - [진법](./else-structure.md#진법)
 
-[돌아가기](./README.md)
+[( 홈으로 )](../README.md)
+
+---
+
+</details>
+
+<br>
+
+
 
 <br>
 
@@ -52,7 +67,7 @@
 ---
 
 `모든 정점 연결` `간선 비용의 합이 최소`
-- Kruskal, Prim은 알고리즘에서.
+- Kruskal, Prim은 [알고리즘에서](../algorithm/graph.md#mst-알고리즘)
 
 ---
 

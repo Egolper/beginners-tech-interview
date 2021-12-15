@@ -1,3 +1,8 @@
+<details>
+<summary>&nbsp; 목차 </summary>
+
+---
+
 ## [Data Structure](./README.md)
 #### [선형 자료구조](./linear-structure.md#선형-자료구조)
   - [배열, 연결리스트](./linear-structure.md#배열-연결리스트)
@@ -7,7 +12,13 @@
   - [그래프](./non-linear-structure.md#그래프-graph)
   - [트리](./non-linear-structure.md#트리-tree)
 
-[돌아가기](./README.md)
+#### 그외 자료구조
+
+[( 홈으로 )](../README.md)
+
+---
+
+</details>
 
 <br>
 
