@@ -17,6 +17,7 @@
 - [Data Structure (자료구조)](./data-structure/README.md)
 - [Network (네트워크)](./network/README.md)
 - [Operating System (운영체제)](./operating-system/README.md)
+- [Software Engineering (소프트웨어 개론)](./softwareEngineering/README.md)
 
 <br>
 
